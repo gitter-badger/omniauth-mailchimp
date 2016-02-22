@@ -1,5 +1,7 @@
 #Mailchimp Strategie
 
+[![Join the chat at https://gitter.im/Xenapto/omniauth-mailchimp](https://badges.gitter.im/Xenapto/omniauth-mailchimp.svg)](https://gitter.im/Xenapto/omniauth-mailchimp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MailChimp OAuth2 strategy for OmniAuth 1.0
 
 #License
